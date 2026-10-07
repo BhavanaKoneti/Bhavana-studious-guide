@@ -1,3 +1,3 @@
-Project Overview: This project analyzes laptop listings from Amazon India to understand pricing patterns and the relationship between laptop specifications, brands, and customer ratings.
+Project Overview: This project analyzes laptop listings from Amazon India to understand pricing patterns and the relationship between laptop specifications, brands, Storage, RAM and customer ratings.
   The project covers the complete data-analysis workflow: Web Scraping → Data Cleaning → Exploratory Data Analysis → Visualization → Business Insights
   The analysis focuses on Brand, Processor, RAM, Storage, Screen Size, Price, Discount, and Rating
